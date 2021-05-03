@@ -27,6 +27,7 @@ for comment in suspect.comments.new(limit=5):
 #    commentlist.append(onelinecomment)
 #COMMENTLIST POST COUNT SANITY CHECK
 #print(commentlist[0])
+#
 
 #GET SUSPECT COMMENT SUBREDDIT (suscomsubreds) COUNTS
 suscomsubreds = []
